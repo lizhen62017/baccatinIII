@@ -1,0 +1,197 @@
+CHARGE     -4.00 ( -4 )
+Formula: H35 C29 N7 O18 F3 P3 S1 
+ATOM      1  N6A BYC   432      40.145  60.885  52.764 -0.913500        nv
+ATOM      2  HN6ABYC   432      39.798  61.757  52.388  0.375800        hn
+ATOM      3  HN6BBYC   432      39.419  60.373  53.250  0.375800        hn
+ATOM      4  C6A BYC   432      41.127  60.207  52.193  0.649200        ca
+ATOM      5  N1A BYC   432      41.815  60.955  51.342 -0.805000        nb
+ATOM      6  C2A BYC   432      42.782  60.159  50.740  0.627900        ca
+ATOM      7  H2A BYC   432      43.311  60.612  49.912  0.043100        h5
+ATOM      8  N3A BYC   432      43.199  58.806  50.952 -0.634000        nb
+ATOM      9  C4A BYC   432      42.591  58.286  52.021  0.444800        ca
+ATOM     10  C5M BYC   432      41.553  58.949  52.639 -0.210200        ca
+ATOM     11  N7A BYC   432      41.019  58.271  53.717 -0.638100        nc
+ATOM     12  C8A BYC   432      41.757  57.122  53.644  0.447700        cd
+ATOM     13  H8A BYC   432      41.662  56.258  54.288  0.102800        h5
+ATOM     14  N9A BYC   432      42.682  57.073  52.626 -0.183000        na
+ATOM     15  C1D BYC   432      43.536  55.903  52.347  0.141800        c3
+ATOM     16  O4D BYC   432      44.710  55.989  51.505 -0.432600        os
+ATOM     17  H1D BYC   432      43.858  55.492  53.310  0.186700        h2
+ATOM     18  C2D BYC   432      42.754  54.959  51.489  0.082100        c3
+ATOM     19  O2D BYC   432      41.700  54.247  52.215 -0.649800        oh
+ATOM     20  HO2DBYC   432      42.233  53.719  52.834  0.475000        ho
+ATOM     21  H2D BYC   432      42.296  55.501  50.653  0.054700        h1
+ATOM     22  C3D BYC   432      43.651  53.971  50.742  0.251100        c3
+ATOM     23  O3D BYC   432      43.890  52.780  51.518 -0.617200        os
+ATOM     24  P3D BYC   432      44.392  52.558  52.998  1.363900        p5
+ATOM     25  O7A BYC   432      45.693  53.090  53.438 -0.910833         o
+ATOM     26  O8A BYC   432      43.360  53.104  53.921 -0.910833         o
+ATOM     27  O9A BYC   432      44.242  51.130  53.419 -0.910833         o
+ATOM     28  H3D BYC   432      43.297  53.679  49.746  0.029700        h1
+ATOM     29  C4D BYC   432      44.983  54.763  50.712  0.086100        c3
+ATOM     30  H4D BYC   432      45.798  54.212  51.197  0.103700        h1
+ATOM     31  C5D BYC   432      45.429  55.053  49.325  0.162400        c3
+ATOM     32  H5D BYC   432      44.650  55.595  48.775  0.034700        h1
+ATOM     33  H5DABYC   432      45.672  54.063  48.919  0.034700        h1
+ATOM     34  O5D BYC   432      46.632  55.828  49.280 -0.572200        os
+ATOM     35  P1A BYC   432      47.989  55.179  49.893  1.518800        p5
+ATOM     36  O1A BYC   432      48.044  53.753  49.628 -0.874000         o
+ATOM     37  O2A BYC   432      48.163  55.579  51.323 -0.874000         o
+ATOM     38  O3A BYC   432      48.963  56.032  49.161 -0.701800        os
+ATOM     39  P2A BYC   432      49.857  55.228  48.219  1.526800        p5
+ATOM     40  O4A BYC   432      49.380  54.714  46.942 -0.880500         o
+ATOM     41  O5A BYC   432      50.888  56.236  47.860 -0.880500         o
+ATOM     42  O6A BYC   432      50.561  54.215  49.243 -0.586200        os
+ATOM     43  CCP BYC   432      51.624  53.359  48.738  0.192400        c3
+ATOM     44  HCP BYC   432      51.316  52.828  47.829  0.020200        h1
+ATOM     45  HCPABYC   432      52.434  54.036  48.441  0.020200        h1
+ATOM     46  CBP BYC   432      52.299  52.435  49.776 -0.089000        c3
+ATOM     47  CDP BYC   432      53.414  51.537  49.232 -0.089100        c3
+ATOM     48  HDP BYC   432      53.039  50.767  48.547  0.032367        hc
+ATOM     49  HDPABYC   432      53.997  50.955  49.955  0.032367        hc
+ATOM     50  HDPBBYC   432      54.157  52.100  48.654  0.032367        hc
+ATOM     51  CEP BYC   432      52.920  53.323  50.809 -0.089100        c3
+ATOM     52  HEP BYC   432      53.326  52.804  51.685  0.032367        hc
+ATOM     53  HEPABYC   432      53.772  53.901  50.430  0.032367        hc
+ATOM     54  HEPBBYC   432      52.200  54.053  51.200  0.032367        hc
+ATOM     55  CAP BYC   432      51.210  51.540  50.529  0.130100        c3
+ATOM     56  OAP BYC   432      50.271  52.312  51.343 -0.620800        oh
+ATOM     57  HOAPBYC   432      50.245  53.094  50.765  0.487000        ho
+ATOM     58  HAP BYC   432      51.713  50.959  51.312  0.038700        h1
+ATOM     59  C9P BYC   432      50.344  50.491  49.736  0.630100         c
+ATOM     60  O9P BYC   432      50.673  49.345  49.501 -0.738100         o
+ATOM     61  N8P BYC   432      49.198  51.044  49.152 -0.528900        ns
+ATOM     62  HN8PBYC   432      48.882  51.929  49.532  0.406500        hn
+ATOM     63  C7P BYC   432      48.372  50.336  48.158  0.105000        c3
+ATOM     64  H7P BYC   432      47.313  50.372  48.441  0.037700        h1
+ATOM     65  H7PABYC   432      48.716  49.296  48.097  0.037700        h1
+ATOM     66  C6P BYC   432      48.391  51.038  46.779 -0.182400        c3
+ATOM     67  H6P BYC   432      49.359  51.487  46.525  0.076700        hc
+ATOM     68  H6PABYC   432      47.703  51.891  46.821  0.076700        hc
+ATOM     69  C5P BYC   432      48.017  50.104  45.664  0.657100         c
+ATOM     70  O5P BYC   432      47.838  48.893  45.782 -0.722100         o
+ATOM     71  N4P BYC   432      47.755  50.742  44.451 -0.504900        ns
+ATOM     72  HN4PBYC   432      47.951  51.735  44.424  0.403500        hn
+ATOM     73  C3P BYC   432      47.180  49.882  43.346  0.101000        c3
+ATOM     74  H3P BYC   432      46.219  49.467  43.672  0.055200        h1
+ATOM     75  H3PABYC   432      47.910  49.080  43.184  0.055200        h1
+ATOM     76  C2P BYC   432      46.882  50.801  42.135 -0.097300        c3
+ATOM     77  H2P BYC   432      47.820  51.188  41.718  0.118200        h1
+ATOM     78  H2PABYC   432      46.317  51.675  42.482  0.118200        h1
+ATOM     79  S1P BYC   432      45.878  49.924  40.812 -0.122700        ss
+ATOM     80  C1B BYC   432      47.263  49.136  39.924  0.547300         c
+ATOM     81  O57 BYC   432      48.457  49.220  40.211 -0.590100         o
+ATOM     82  C2B BYC   432      46.859  47.944  39.045 -0.154600        ca
+ATOM     83  C3B BYC   432      45.713  47.105  39.381 -0.089000        ca
+ATOM     84  H3B BYC   432      45.099  47.343  40.245  0.192000        ha
+ATOM     85  C4B BYC   432      45.513  45.872  38.633 -0.081000        ca
+ATOM     86  H4B BYC   432      44.650  45.284  38.930  0.289000        ha
+ATOM     87  C5B BYC   432      46.320  45.621  37.481 -0.113000        ca
+ATOM     88  H5B BYC   432      46.095  44.777  36.834  0.149000        ha
+ATOM     89  C6B BYC   432      47.367  46.540  37.156 -0.179000        ca
+ATOM     90  H6B BYC   432      48.035  46.480  36.302  0.112000        ha
+ATOM     91  C7B BYC   432      47.617  47.687  37.917  0.064100        ca
+ATOM     92  O1  BYC   432      48.675  48.359  37.591 -0.352900        os
+ATOM     93  C1  BYC   432      49.128  48.359  36.258  0.818700        c3
+ATOM     94  F3  BYC   432      50.135  49.051  36.169 -0.240967         f
+ATOM     95  F2  BYC   432      49.389  47.212  35.916 -0.240967         f
+ATOM     96  F1  BYC   432      48.253  48.814  35.530 -0.240967         f
+BOND    1    1    2    1    N6A HN6A
+BOND    2    1    3    1    N6A HN6B
+BOND    3    1    4    1    N6A  C6A
+BOND    4    4    5    7    C6A  N1A
+BOND    5    4   10    8    C6A  C5M
+BOND    6    5    6    8    N1A  C2A
+BOND    7    6    7    1    C2A  H2A
+BOND    8    6    8    7    C2A  N3A
+BOND    9    8    9    8    N3A  C4A
+BOND   10    9   10    7    C4A  C5M
+BOND   11    9   14    1    C4A  N9A
+BOND   12   10   11    1    C5M  N7A
+BOND   13   11   12    2    N7A  C8A
+BOND   14   12   13    1    C8A  H8A
+BOND   15   12   14    1    C8A  N9A
+BOND   16   14   15    1    N9A  C1D
+BOND   17   15   16    1    C1D  O4D
+BOND   18   15   17    1    C1D  H1D
+BOND   19   15   18    1    C1D  C2D
+BOND   20   16   29    1    O4D  C4D
+BOND   21   18   19    1    C2D  O2D
+BOND   22   18   21    1    C2D  H2D
+BOND   23   18   22    1    C2D  C3D
+BOND   24   19   20    1    O2D HO2D
+BOND   25   22   23    1    C3D  O3D
+BOND   26   22   28    1    C3D  H3D
+BOND   27   22   29    1    C3D  C4D
+BOND   28   23   24    1    O3D  P3D
+BOND   29   24   25    9    P3D  O7A
+BOND   30   24   26    9    P3D  O8A
+BOND   31   24   27    9    P3D  O9A
+BOND   32   29   30    1    C4D  H4D
+BOND   33   29   31    1    C4D  C5D
+BOND   34   31   32    1    C5D  H5D
+BOND   35   31   33    1    C5D H5DA
+BOND   36   31   34    1    C5D  O5D
+BOND   37   34   35    1    O5D  P1A
+BOND   38   35   36    9    P1A  O1A
+BOND   39   35   37    9    P1A  O2A
+BOND   40   35   38    1    P1A  O3A
+BOND   41   38   39    1    O3A  P2A
+BOND   42   39   40    9    P2A  O4A
+BOND   43   39   41    9    P2A  O5A
+BOND   44   39   42    1    P2A  O6A
+BOND   45   42   43    1    O6A  CCP
+BOND   46   43   44    1    CCP  HCP
+BOND   47   43   45    1    CCP HCPA
+BOND   48   43   46    1    CCP  CBP
+BOND   49   46   47    1    CBP  CDP
+BOND   50   46   51    1    CBP  CEP
+BOND   51   46   55    1    CBP  CAP
+BOND   52   47   48    1    CDP  HDP
+BOND   53   47   49    1    CDP HDPA
+BOND   54   47   50    1    CDP HDPB
+BOND   55   51   52    1    CEP  HEP
+BOND   56   51   53    1    CEP HEPA
+BOND   57   51   54    1    CEP HEPB
+BOND   58   55   56    1    CAP  OAP
+BOND   59   55   58    1    CAP  HAP
+BOND   60   55   59    1    CAP  C9P
+BOND   61   56   57    1    OAP HOAP
+BOND   62   59   60    2    C9P  O9P
+BOND   63   59   61    1    C9P  N8P
+BOND   64   61   62    1    N8P HN8P
+BOND   65   61   63    1    N8P  C7P
+BOND   66   63   64    1    C7P  H7P
+BOND   67   63   65    1    C7P H7PA
+BOND   68   63   66    1    C7P  C6P
+BOND   69   66   67    1    C6P  H6P
+BOND   70   66   68    1    C6P H6PA
+BOND   71   66   69    1    C6P  C5P
+BOND   72   69   70    2    C5P  O5P
+BOND   73   69   71    1    C5P  N4P
+BOND   74   71   72    1    N4P HN4P
+BOND   75   71   73    1    N4P  C3P
+BOND   76   73   74    1    C3P  H3P
+BOND   77   73   75    1    C3P H3PA
+BOND   78   73   76    1    C3P  C2P
+BOND   79   76   77    1    C2P  H2P
+BOND   80   76   78    1    C2P H2PA
+BOND   81   76   79    1    C2P  S1P
+BOND   82   79   80    1    S1P  C1B
+BOND   83   80   81    2    C1B  O57
+BOND   84   80   82    1    C1B  C2B
+BOND   85   82   83    7    C2B  C3B
+BOND   86   82   91    8    C2B  C7B
+BOND   87   83   84    1    C3B  H3B
+BOND   88   83   85    8    C3B  C4B
+BOND   89   85   86    1    C4B  H4B
+BOND   90   85   87    7    C4B  C5B
+BOND   91   87   88    1    C5B  H5B
+BOND   92   87   89    8    C5B  C6B
+BOND   93   89   90    1    C6B  H6B
+BOND   94   89   91    7    C6B  C7B
+BOND   95   91   92    1    C7B   O1
+BOND   96   92   93    1     O1   C1
+BOND   97   93   94    1     C1   F3
+BOND   98   93   95    1     C1   F2
+BOND   99   93   96    1     C1   F1
