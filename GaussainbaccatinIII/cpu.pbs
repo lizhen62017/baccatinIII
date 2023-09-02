@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH -J Tezcan
+#SBATCH -e test.err
+#SBATCH -o test.out
+#SBATCH -n 1 -c 8
+#SBATCH --mem=32G
+#SBATCH --time=163:55:00
+  
+echo $SLURM_SUBMIT_DIR
+cd $SLURM_SUBMIT_DIR
+
+#-------------- Load Modules ------------------
+module purge && ml GCC/9.3.0 CUDA/11.0.207 OpenMPI/4.0.3 Gaussian/g16 && ulimit -c 0
+
+#-------------- Run job -----------------------
+echo 'RUN AMBER JOB'
+# running command
+g16 < 6WZ3_small_opt.com > 6WZ3_small_opt.log
+cp 6WZ3_small_opt.chk 6WZ3_small_opt2.chk
+g16 < 6WZ3_small_opt2.com > 6WZ3_small_opt2.log
+cp 6WZ3_small_opt2.chk 6WZ3_small_opt3.chk
+g16 < 6WZ3_small_opt3.com > 6WZ3_small_opt3.log
+cp 6WZ3_small_opt3.chk 6WZ3_small_opt4.chk
+g16 < 6WZ3_small_opt4.com > 6WZ3_small_opt4.log
+#cp 6WZ3_small_opt4.chk 6WZ3_small_fc.chk
+#g16 < 6WZ3_small_fc.com > 6WZ3_small_fc.log
+#formchk 6WZ3_small_fc.chk  6WZ3_small_opt.fchk
+#g16 < 6WZ3_large_mk.com > 6WZ3_large_mk.log
