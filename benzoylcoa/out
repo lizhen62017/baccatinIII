@@ -1,0 +1,68 @@
+
+CPPTRAJ: Trajectory Analysis. V5.1.0
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 08/23/23 18:35:51
+| Available memory: 77.727 GB
+
+	Reading 'complex_solv.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+INPUT: Reading input from 'STDIN'
+  [trajin ti2_npt.netcdf]
+	Reading 'ti2_npt.netcdf' as Amber NetCDF
+  [autoimage]
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [distance :433@O2 :432@C1B out distance1.txt]
+    DISTANCE: :433@O2 to :432@C1B, center of mass.
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: complex_solv.prmtop, 74234 atoms, 17278 res, box: Orthorhombic, 16848 mol, 16845 solvent
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'ti2_npt.netcdf' is a NetCDF AMBER trajectory with coordinates, velocities, time, box, Parm complex_solv.prmtop (Orthorhombic box) (reading 2000 of 2000)
+  Coordinate processing will occur on 2000 frames.
+
+BEGIN TRAJECTORY PROCESSING:
+.....................................................
+ACTION SETUP FOR PARM 'complex_solv.prmtop' (2 actions):
+  0: [autoimage]
+	Using first molecule as anchor.
+	2 molecules are fixed to anchor: 2 3
+	16845 molecules are mobile.
+  1: [distance :433@O2 :432@C1B out distance1.txt]
+	:433@O2 (1 atoms) to :432@C1B (1 atoms), imaged.
+----- ti2_npt.netcdf (1-2000, 1) -----
+ 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Complete.
+
+Read 2000 frames and processed 2000 frames.
+TIME: Avg. throughput= 390.9081 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+DATASETS (1 total):
+	Dis_00001 "Dis_00001" (double, distance), size is 2000 (16.000 kB)
+    Total data set memory usage is at least 16.000 kB
+
+DATAFILES (1 total):
+  distance1.txt (Standard Data File):  Dis_00001
+
+RUN TIMING:
+TIME:		Init               : 0.0000 s (  0.00%)
+TIME:		Trajectory Process : 5.1163 s ( 45.88%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 6.0355 s ( 54.12%)
+TIME:		Other              : 0.0004 s (  0.00%)
+TIME:	Run Total 11.1522 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 11.2508 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+

@@ -1,0 +1,4 @@
+trajin ti2_npt.netcdf
+autoimage
+distance :433@O2 :432@C1B out distance1.txt
+
