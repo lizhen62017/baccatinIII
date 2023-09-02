@@ -1,0 +1,185 @@
+HETATM    1  N6A BYC   432      40.145  60.885  52.764  1.00  0.00           N
+HETATM    2 HN6A BYC   432      39.798  61.757  52.388  1.00  0.00           H
+HETATM    3 HN6B BYC   432      39.419  60.373  53.250  1.00  0.00           H
+HETATM    4  C6A BYC   432      41.127  60.207  52.193  1.00  0.00           C
+HETATM    5  N1A BYC   432      41.815  60.955  51.342  1.00  0.00           N
+HETATM    6  C2A BYC   432      42.782  60.159  50.740  1.00  0.00           C
+HETATM    7  H2A BYC   432      43.311  60.612  49.912  1.00  0.00           H
+HETATM    8  N3A BYC   432      43.199  58.806  50.952  1.00  0.00           N
+HETATM    9  C4A BYC   432      42.591  58.286  52.021  1.00  0.00           C
+HETATM   10  C5M BYC   432      41.553  58.949  52.639  1.00  0.00           C
+HETATM   11  N7A BYC   432      41.019  58.271  53.717  1.00  0.00           N
+HETATM   12  C8A BYC   432      41.757  57.122  53.644  1.00  0.00           C
+HETATM   13  H8A BYC   432      41.662  56.258  54.288  1.00  0.00           H
+HETATM   14  N9A BYC   432      42.682  57.073  52.626  1.00  0.00           N
+HETATM   15  C1D BYC   432      43.536  55.903  52.347  1.00  0.00           C
+HETATM   16  O4D BYC   432      44.710  55.989  51.505  1.00  0.00           O
+HETATM   17  H1D BYC   432      43.858  55.492  53.310  1.00  0.00           H
+HETATM   18  C2D BYC   432      42.754  54.959  51.489  1.00  0.00           C
+HETATM   19  O2D BYC   432      41.700  54.247  52.215  1.00  0.00           O
+HETATM   20 HO2D BYC   432      42.233  53.719  52.834  1.00  0.00           H
+HETATM   21  H2D BYC   432      42.296  55.501  50.653  1.00  0.00           H
+HETATM   22  C3D BYC   432      43.651  53.971  50.742  1.00  0.00           C
+HETATM   23  O3D BYC   432      43.890  52.780  51.518  1.00  0.00           O
+HETATM   24  P3D BYC   432      44.392  52.558  52.998  1.00  0.00           P
+HETATM   25  O7A BYC   432      45.693  53.090  53.438  1.00  0.00           O
+HETATM   26  O8A BYC   432      43.360  53.104  53.921  1.00  0.00           O
+HETATM   27  O9A BYC   432      44.242  51.130  53.419  1.00  0.00           O
+HETATM   28  H3D BYC   432      43.297  53.679  49.746  1.00  0.00           H
+HETATM   29  C4D BYC   432      44.983  54.763  50.712  1.00  0.00           C
+HETATM   30  H4D BYC   432      45.798  54.212  51.197  1.00  0.00           H
+HETATM   31  C5D BYC   432      45.429  55.053  49.325  1.00  0.00           C
+HETATM   32  H5D BYC   432      44.650  55.595  48.775  1.00  0.00           H
+HETATM   33 H5DA BYC   432      45.672  54.063  48.919  1.00  0.00           H
+HETATM   34  O5D BYC   432      46.632  55.828  49.280  1.00  0.00           O
+HETATM   35  P1A BYC   432      47.989  55.179  49.893  1.00  0.00           P
+HETATM   36  O1A BYC   432      48.044  53.753  49.628  1.00  0.00           O
+HETATM   37  O2A BYC   432      48.163  55.579  51.323  1.00  0.00           O
+HETATM   38  O3A BYC   432      48.963  56.032  49.161  1.00  0.00           O
+HETATM   39  P2A BYC   432      49.857  55.228  48.219  1.00  0.00           P
+HETATM   40  O4A BYC   432      49.380  54.714  46.942  1.00  0.00           O
+HETATM   41  O5A BYC   432      50.888  56.236  47.860  1.00  0.00           O
+HETATM   42  O6A BYC   432      50.561  54.215  49.243  1.00  0.00           O
+HETATM   43  CCP BYC   432      51.624  53.359  48.738  1.00  0.00           C
+HETATM   44  HCP BYC   432      51.316  52.828  47.829  1.00  0.00           H
+HETATM   45 HCPA BYC   432      52.434  54.036  48.441  1.00  0.00           H
+HETATM   46  CBP BYC   432      52.299  52.435  49.776  1.00  0.00           C
+HETATM   47  CDP BYC   432      53.414  51.537  49.232  1.00  0.00           C
+HETATM   48  HDP BYC   432      53.039  50.767  48.547  1.00  0.00           H
+HETATM   49 HDPA BYC   432      53.997  50.955  49.955  1.00  0.00           H
+HETATM   50 HDPB BYC   432      54.157  52.100  48.654  1.00  0.00           H
+HETATM   51  CEP BYC   432      52.920  53.323  50.809  1.00  0.00           C
+HETATM   52  HEP BYC   432      53.326  52.804  51.685  1.00  0.00           H
+HETATM   53 HEPA BYC   432      53.772  53.901  50.430  1.00  0.00           H
+HETATM   54 HEPB BYC   432      52.200  54.053  51.200  1.00  0.00           H
+HETATM   55  CAP BYC   432      51.210  51.540  50.529  1.00  0.00           C
+HETATM   56  OAP BYC   432      50.271  52.312  51.343  1.00  0.00           O
+HETATM   57 HOAP BYC   432      50.245  53.094  50.765  1.00  0.00           H
+HETATM   58  HAP BYC   432      51.713  50.959  51.312  1.00  0.00           H
+HETATM   59  C9P BYC   432      50.344  50.491  49.736  1.00  0.00           C
+HETATM   60  O9P BYC   432      50.673  49.345  49.501  1.00  0.00           O
+HETATM   61  N8P BYC   432      49.198  51.044  49.152  1.00  0.00           N
+HETATM   62 HN8P BYC   432      48.882  51.929  49.532  1.00  0.00           H
+HETATM   63  C7P BYC   432      48.372  50.336  48.158  1.00  0.00           C
+HETATM   64  H7P BYC   432      47.313  50.372  48.441  1.00  0.00           H
+HETATM   65 H7PA BYC   432      48.716  49.296  48.097  1.00  0.00           H
+HETATM   66  C6P BYC   432      48.391  51.038  46.779  1.00  0.00           C
+HETATM   67  H6P BYC   432      49.359  51.487  46.525  1.00  0.00           H
+HETATM   68 H6PA BYC   432      47.703  51.891  46.821  1.00  0.00           H
+HETATM   69  C5P BYC   432      48.017  50.104  45.664  1.00  0.00           C
+HETATM   70  O5P BYC   432      47.838  48.893  45.782  1.00  0.00           O
+HETATM   71  N4P BYC   432      47.755  50.742  44.451  1.00  0.00           N
+HETATM   72 HN4P BYC   432      47.951  51.735  44.424  1.00  0.00           H
+HETATM   73  C3P BYC   432      47.180  49.882  43.346  1.00  0.00           C
+HETATM   74  H3P BYC   432      46.219  49.467  43.672  1.00  0.00           H
+HETATM   75 H3PA BYC   432      47.910  49.080  43.184  1.00  0.00           H
+HETATM   76  C2P BYC   432      46.882  50.801  42.135  1.00  0.00           C
+HETATM   77  H2P BYC   432      47.820  51.188  41.718  1.00  0.00           H
+HETATM   78 H2PA BYC   432      46.317  51.675  42.482  1.00  0.00           H
+HETATM   79  S1P BYC   432      45.878  49.924  40.812  1.00  0.00           S
+HETATM   80  C1B BYC   432      47.263  49.136  39.924  1.00  0.00           C
+HETATM   81  O57 BYC   432      48.457  49.220  40.211  1.00  0.00           O
+HETATM   82  C2B BYC   432      46.859  47.944  39.045  1.00  0.00           C
+HETATM   83  C3B BYC   432      45.713  47.105  39.381  1.00  0.00           C
+HETATM   84  H3B BYC   432      45.099  47.343  40.245  1.00  0.00           H
+HETATM   85  C4B BYC   432      45.513  45.872  38.633  1.00  0.00           C
+HETATM   86  H4B BYC   432      44.650  45.284  38.930  1.00  0.00           H
+HETATM   87  C5B BYC   432      46.320  45.621  37.481  1.00  0.00           C
+HETATM   88  H5B BYC   432      46.095  44.777  36.834  1.00  0.00           H
+HETATM   89  C6B BYC   432      47.367  46.540  37.156  1.00  0.00           C
+HETATM   90  H6B BYC   432      48.035  46.480  36.302  1.00  0.00           H
+HETATM   91  C7B BYC   432      47.617  47.687  37.917  1.00  0.00           C
+HETATM   92  F1  BYC   432      48.618  48.323  37.609  1.00  0.00           F
+CONECT   80   79   81   82
+CONECT   15   14   16   17   18
+CONECT    6    5    7    8
+CONECT   82   80   83   91
+CONECT   18   21   15   22   19
+CONECT   76   73   77   78   79
+CONECT   83   82   84   85
+CONECT   22   23   28   29   18
+CONECT   73   74   75   76   71
+CONECT    9   14   10    8
+CONECT   85   83   86   87
+CONECT   29   22   30   31   16
+CONECT   87   85   88   89
+CONECT   31   34   29   32   33
+CONECT   10   11    4    9
+CONECT   69   66   70   71
+CONECT    4    1    5   10
+CONECT   89   87   90   91
+CONECT   66   63   67   68   69
+CONECT   91   82   89   92
+CONECT   63   66   61   64   65
+CONECT   12   14   13   11
+CONECT   59   55   60   61
+CONECT   55   46   56   58   59
+CONECT   46   43   47   51   55
+CONECT   43   42   44   45   46
+CONECT   47   46   48   49   50
+CONECT   51   46   52   53   54
+CONECT   92   91
+CONECT   17   15
+CONECT    7    6
+CONECT   21   18
+CONECT   77   76
+CONECT   78   76
+CONECT   84   83
+CONECT   28   22
+CONECT   74   73
+CONECT   75   73
+CONECT   86   85
+CONECT   30   29
+CONECT   88   87
+CONECT   32   31
+CONECT   33   31
+CONECT   90   89
+CONECT   67   66
+CONECT   68   66
+CONECT   64   63
+CONECT   65   63
+CONECT   13   12
+CONECT   58   55
+CONECT   44   43
+CONECT   45   43
+CONECT   48   47
+CONECT   49   47
+CONECT   50   47
+CONECT   52   51
+CONECT   53   51
+CONECT   54   51
+CONECT   72   71
+CONECT    2    1
+CONECT    3    1
+CONECT   62   61
+CONECT   20   19
+CONECT   57   56
+CONECT    5    4    6
+CONECT    8    6    9
+CONECT   71   73   69   72
+CONECT    1    4    2    3
+CONECT   11   10   12
+CONECT   61   59   62   63
+CONECT   14   15   12    9
+CONECT   36   35
+CONECT   37   35
+CONECT   19   20   18
+CONECT   38   35   39
+CONECT   23   24   22
+CONECT   40   39
+CONECT   16   15   29
+CONECT   81   80
+CONECT   41   39
+CONECT   34   35   31
+CONECT   70   69
+CONECT   42   39   43
+CONECT   25   24
+CONECT   26   24
+CONECT   27   24
+CONECT   60   59
+CONECT   56   55   57
+CONECT   35   34   36   37   38
+CONECT   39   38   40   41   42
+CONECT   24   25   23   26   27
+CONECT   79   76   80
+END
