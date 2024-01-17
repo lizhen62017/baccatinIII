@@ -1,0 +1,1 @@
+This filder contains input files for 13-oxo baccatin III simulation. Please run command "sbatch gpu.pbs" once AMBER and SLURM are available in your system. 
