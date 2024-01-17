@@ -1,0 +1,20 @@
+# Log started on 12/12/2023 [mm/dd/yyyy] at 13:57:15
+# Command line arguments: complex_solv.prmtop
+# Loaded topologies: complex_solv.prmtop
+netCharge :19
+quit
+# Log started on 12/12/2023 [mm/dd/yyyy] at 13:57:46
+# Command line arguments: complex_solv.prmtop
+# Loaded topologies: complex_solv.prmtop
+netCharge @428
+quit
+# Log started on 12/12/2023 [mm/dd/yyyy] at 13:58:50
+# Command line arguments: complex_solv.prmtop
+# Loaded topologies: complex_solv.prmtop
+netCharge @79
+quit
+# Log started on 12/12/2023 [mm/dd/yyyy] at 14:00:21
+# Command line arguments: complex_solv.prmtop
+# Loaded topologies: complex_solv.prmtop
+netCharge @429
+quit
