@@ -1,4 +1,4 @@
-This folder contains files to simulate 13-oxo baccatin III interacting with CoA in mTBT, please follow the steps below to try it yourself!
+This folder contains files to simulate regular baccatin III interacting with CoA in mTBT, please follow the steps below to try it yourself!
 antechamber -fi pdb -i hbc.pdb -bk BYC -fo ac -o hbc.ac -c bcc -at gaff2 -nc -4
 antechamber -fi pdb -i 13o.pdb -bk R3Q -fo ac -o 13o.ac -c bcc -at gaff2
 prepgen -i hbc.ac -o hbc.prepin -rn BYC
