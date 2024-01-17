@@ -1,0 +1,13 @@
+0. awk '$1 == "ATOM" || $1 =="TER"  || $1 ~ /^HETATM/ {print}' 4bv1.pdb > complex.pdb
+
+1. use H++ server to determine protonation states. download the prmtop and inpcrd file, use ambpdb to get pdb file: complex_H.pdb
+
+2. reduce -Trim complex_H.pdb > complex_final.pdb  --- remove all the hydrogens
+
+3. check if there's HIP, GLH, ASH, CYM, CYX residues. These should be rarely taken. View the structures to make sure they make sense. HIP should be changed to HID or HIE, if it is not H-bond to two C=O group.
+
+4. modify the coordinating residues' names accordingly, e.g. HID might need to be changed to HIE, etc.
+
+5. copy the metal ion and water molecules in the complex.pdb to complex_final.pdb
+
+6. pdb4amber -i complex_final.pdb > complex_f.pdb &  mv complex_f.pdb complex_final.pdb
