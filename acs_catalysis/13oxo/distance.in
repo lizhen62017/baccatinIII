@@ -1,7 +1,0 @@
-trajin ti2_npt.netcdf
-autoimage
-distance :1@S1P :2@C1B out distance1.txt
-distance :1@S1P :360@HE1 out distance2.txt
-distance :2@C1B :360@HE1 out distance3.txt
-distance :1@H41 :164@OD1 out distance4.txt
-distance :1@H41 :164@OD2 out distance5.txt
